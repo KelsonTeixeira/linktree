@@ -1,5 +1,13 @@
 [
   {
+    "text": "Alpina Youtube",
+    "link": "https://www.youtube.com/c/alpinad"
+  },
+  {
+    "text": "Blog Alpina",
+    "link": "https://alpina.digital/blog/"
+  },
+  {
     "text": "Meu Github",
     "link": "https://github.com/KelsonTeixeira"
   },
@@ -18,6 +26,6 @@
   {
     "text": "Drum Cover",
     "link": "https://www.youtube.com/watch?v=LhmsZ3EXmaM"
-  }
+  },
   
 ]
